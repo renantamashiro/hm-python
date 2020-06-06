@@ -1,0 +1,10 @@
+README.rst
+setup.py
+hm_python/__init__.py
+hm_python/console.py
+hm_python.egg-info/PKG-INFO
+hm_python.egg-info/SOURCES.txt
+hm_python.egg-info/dependency_links.txt
+hm_python.egg-info/entry_points.txt
+hm_python.egg-info/requires.txt
+hm_python.egg-info/top_level.txt
